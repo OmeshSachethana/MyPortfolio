@@ -44,15 +44,6 @@ export const projects = [
     visit: 'https://google.com',
     id: 4,
   },
-  {
-    title: 'Unichat',
-    description: "Summarizrr is a tool that makes reading easier by summarizing long articles into simple and concise summaries. It is an open-source software that helps readers to understand the main points of an article without going through the entire content. Users can paste the article or website link into the search box, and Summarizrr will provide a summary that is easy to comprehend.",
-    image: '/images/4.jpg',
-    tags: ['React', 'ChatEngine', 'Firebase'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
-    id: 5,
-  }
 ];
 
 export const TimeLineData = [
