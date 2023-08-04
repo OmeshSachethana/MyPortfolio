@@ -55,7 +55,7 @@ const Header = () =>  (
       <SocialIcons href='https://twitter.com/OSachethana'>
         <AiFillTwitterCircle size={'3rem'} />
       </SocialIcons>
-      <Link href='https://drive.google.com/file/d/1L9c8nkcu_PK2OuZFExPwomC6tIWQSBdS/view?usp=sharing'>
+      <Link href='https://drive.google.com/file/d/1qVfbZd19g1N1j-2VCOlgqDBsoSibC2kb/view?usp=sharing'>
     <Button>Download CV</Button>
   </Link> 
     </Div3>
