@@ -46,13 +46,13 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-          I am a Software Engineer undergraduate with expertise in several technologies with a passion for creating innovative solutions to complex problems. I have a strong reputation as a problem solver and team player since I have a passion for coming up with original solutions to challenging issues.
+          I am a Software Engineering undergraduate with expertise in several technologies with a passion for creating innovative solutions to complex problems. I have a strong reputation as a problem solver and team player since I have a passion for coming up with original solutions to challenging issues.
           <br/>
           Together with my strong technical abilities, I can work cooperatively with stakeholders and colleagues.
           I have proven my capacity as a software engineer to design, create, and deploy software solutions that adhere to the highest standards of quality and dependability.
           <br/>
           I'm always looking for ways to sharpen my abilities and expertise, and I keep up with the most recent developments and industry best practices.
-          In addition to technical skills, also an active member of my community. As a Campus Ambassador at Dewtown, member of AIESEC, member of Lions club international, and member of the Mozilla Club of SLIIT.
+          In addition to technical skills, also an active member of my communities. As a Campus Ambassador at Dewtown, member of AIESEC, member of Lions club international, and member of the Mozilla Club of SLIIT.
           <br />
           Overall, I am a person who is passionate about my work and committed to making a difference.
       </SectionText>

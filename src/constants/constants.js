@@ -51,5 +51,5 @@ export const TimeLineData = [
   { year: 2020, text: 'I started creating the front-end of web applications using HTML and CSS.', },
   { year: 2021, text: 'I acquired proficiency in programming languages such as C, C++, JavaScript, and Java. With a team of four members from my university, I developed a web application called Online Bidding System.', },
   { year: 2022, text: 'I created UML diagrams, including use case, activity, sequence, communication, state machine, component, deployment, and class diagrams, and also gained knowledge in Object-Oriented Programming', },
-  { year: 2023, text: 'Type', },
+  { year: 2023, text: "Gained expertise in MERN stack with Vite JS, AngularJS, SpringBoot and presently, I'm actively engaged in mastering Flutter for mobile app development. Exciting learning journey ahead!", },
 ];
