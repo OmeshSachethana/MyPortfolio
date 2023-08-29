@@ -31,8 +31,8 @@ export const projects = [
     description: "Discover Sri Lanka like never before with our innovative tourism application. Personalized profiles, easy tour bookings, inspiring travel blogs, and valuable feedback features are all at your fingertips. To inspire and inform travelers, our platform hosts a vibrant community of travel bloggers. Join us in promoting Sri Lanka's wonders and create unforgettable memories.",
     image: '/images/ceylonVoyages.png',
     tags: ['React(Vite)', 'Node', 'Express', 'MongoDB'],
-    source: 'https://github.com/OmeshSachethana/Ceylon_Voyages',
-    visit: 'https://af-project-beta.vercel.app/tours',
+    source: 'https://af-project-beta.vercel.app/tours',
+    visit: 'https://github.com/OmeshSachethana/Ceylon_Voyages',
     id: 3,
   },
   {
@@ -41,7 +41,16 @@ export const projects = [
     image: '/images/mern_cart.png',
     tags: ['Next', 'Redux', 'MongoDB'],
     source: 'https://github.com/OmeshSachethana/MERN_ShoppingCart.git',
-    visit: 'https://google.com',
+    visit: 'https://github.com/OmeshSachethana/MERN_ShoppingCart.git',
+    id: 4,
+  },
+  {
+    title: 'Shoes Landing Page',
+    description: "The mobile responsive shopping cart desktop application is a modern and user-friendly software developed using the MERN stack. It utilizes Redux for efficient state management and offers a seamless shopping experience. With a responsive design, it adapts to different devices and screen sizes. The application includes features such as user authentication, product catalog, search and filtering, secure payment options, and order tracking. It provides a convenient and interactive platform for online shopping.",
+    image: '/images/shoe_landing_page.png',
+    tags: ['React', 'ViteJs', 'TailwindCSS'],
+    source: 'https://go-sneakers.netlify.app/',
+    visit: 'https://github.com/OmeshSachethana/Shoes_LandingPage.git',
     id: 4,
   },
 ];
