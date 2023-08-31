@@ -46,7 +46,7 @@ export const projects = [
   },
   {
     title: 'Shoes Landing Page',
-    description: "The mobile responsive shopping cart desktop application is a modern and user-friendly software developed using the MERN stack. It utilizes Redux for efficient state management and offers a seamless shopping experience. With a responsive design, it adapts to different devices and screen sizes. The application includes features such as user authentication, product catalog, search and filtering, secure payment options, and order tracking. It provides a convenient and interactive platform for online shopping.",
+    description: "The 'Sneakers' website sets the standard for seamless user experiences with its fully mobile-responsive design and exceptional user-friendliness.Developed using the dynamic combination of React and ViteJs, the site ensures swift performance and a seamless browsing experience.The aesthetic finesse is further enhanced by the use of Tailwind CSS for styling, resulting in a harmonious blend of aesthetics and usability.'Sneakers' website offers a delightful and effortless journey through its impressive collection.",
     image: '/images/shoe_landing_page.png',
     tags: ['React', 'ViteJs', 'TailwindCSS'],
     source: 'https://go-sneakers.netlify.app/',
