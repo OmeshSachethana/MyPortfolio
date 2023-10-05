@@ -53,6 +53,17 @@ export const projects = [
     visit: 'https://github.com/OmeshSachethana/Shoes_LandingPage.git',
     id: 4,
   },
+  {
+    title: 'Ceylon Voyages',
+    description: "Ceylon Voyages is a comprehensive tourism application that enhances the travel experience in Sri Lanka. Create profiles, save favorites, and share on social media. Book cultural, adventure, wildlife tours with ease. Bloggers share insights, attracting more visitors. This feature will help improve the quality of tourism services in Sri Lanka and help other users make informed decisions.",
+    image: '/images/ceylonVoyages.png',
+    tags: ['React', 'ViteJs', 'TailwindCSS'],
+    source: 'https://af-project-beta.vercel.app/',
+    visit: 'https://github.com/OmeshSachethana/Ceylon_Voyages',
+    id: 4,
+  },
+
+  
 ];
 
 export const TimeLineData = [
