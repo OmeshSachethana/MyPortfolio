@@ -19,7 +19,7 @@ const Hero = (props) => (
       <br /><br />
       <SectionText>My name is Omesh Sachethana. I am currently a 3rd-year 2nd-semester student pursuing a degree in Information Technology specialization in Software Engineering at Sri Lanka Institute of Information Technology (SLIIT). As a student in this field, I am likely to be skilled in programming languages, software development methodologies, and other technical skills necessary for designing, developing, and testing software applications. 
         I also possess critical thinking skills, problem-solving abilities, and creativity required to excel in my field.</SectionText>
-      <Button onClick={() => window.location = 'https://drive.google.com/file/d/1MBiCpw_FKavZEZBuFnU1NKoN6ZiwRtvp/view?usp=sharing'} >Learn More</Button>
+      <Button onClick={() => window.location = 'https://drive.google.com/file/d/1jWavKV7GnENdiHnLdCttT7OVDU0q4z4u/view?usp=sharing'} >Learn More</Button>
     </LeftSection>
   </Section>
 );
