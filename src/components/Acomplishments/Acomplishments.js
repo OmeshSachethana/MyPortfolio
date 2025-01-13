@@ -27,12 +27,16 @@ const Acomplishments = () => (
         <BoxText>Dean List</BoxText>
       </Box>
       <Box>
-      <BoxNum>10+</BoxNum>
+      <BoxNum>25+</BoxNum>
         <BoxText>Open Source Projects</BoxText>
       </Box>
       <Box>
       <BoxNum>DevTown</BoxNum>
         <BoxText>Campus Ambassador</BoxText>
+      </Box>
+      <Box>
+      <BoxNum>HP LIFE</BoxNum>
+        <BoxText>Digital Skills Builder</BoxText>
       </Box>
       
 
