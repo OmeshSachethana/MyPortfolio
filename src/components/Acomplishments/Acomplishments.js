@@ -27,7 +27,7 @@ const Acomplishments = () => (
         <BoxText>Dean List</BoxText>
       </Box>
       <Box>
-      <BoxNum>25+</BoxNum>
+      <BoxNum>65+</BoxNum>
         <BoxText>Open Source Projects</BoxText>
       </Box>
       <Box>
