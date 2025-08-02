@@ -1,7 +1,7 @@
 import React from 'react';
 import { DiFirebase, DiReact, DiZend, DiAngularSimple, DiNodejsSmall, DiMongodb } from 'react-icons/di';
 import { SiSpringboot, SiAdobeillustrator, SiAdobephotoshop, SiFigma, SiFlutter } from 'react-icons/si';
-import { FaNodeJs } from 'react-icons/fa';
+import { FaMobileAlt  } from 'react-icons/fa';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -15,18 +15,21 @@ const Technologies = () =>  (
     </SectionText>
     <List>
       <ListItem>
-        <div style={{ display: 'flex', alignItems: 'center' }}>
-          <DiReact size={'3rem'} style={{ marginRight: '1rem' }} />
-          <DiAngularSimple size={'3rem'} /> &nbsp;&nbsp;
-          <SiFlutter size={'2.2rem'} />
-        </div>
-        <ListContainer>
-          <ListTitle>Frontend</ListTitle>
-          <ListParagraph>Experience with <br/>
-                         React.js, Angular, and Flutter
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
+  <div style={{ display: 'flex', alignItems: 'center' }}>
+    <DiReact size={'3rem'} style={{ marginRight: '1rem' }} />
+    <DiAngularSimple size={'3rem'} /> &nbsp;&nbsp;
+    <SiFlutter size={'2.2rem'} />
+    <FaMobileAlt size={'2.2rem'} /> {/* React Native icon replacement */}
+  </div>
+  <ListContainer>
+    <ListTitle>Frontend</ListTitle>
+    <ListParagraph>
+      Experience with <br />
+      React.js, React Native, Angular, and Flutter
+    </ListParagraph>
+  </ListContainer>
+</ListItem>
+
       <ListItem>
         <div style={{ display: 'flex', alignItems: 'center' }}>
           <SiSpringboot size={'2.5rem'} style={{ marginRight: '1rem' }} />
